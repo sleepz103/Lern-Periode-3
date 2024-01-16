@@ -35,8 +35,6 @@ Heute habe ich mich erinnert, wie kann ich besser Arbeiten anhand Erfahrung aus 
 
 ✍️ Heute am 16.1 habe ich mit den Erstellung von Muster angefangen. Ich habe es "Problem2Solution" bennant und in Order getan, wo ich dazu schnellen Zugriff habe. Danach habe ich mit den Projekt richtig angefangen. Ich habe Menu erstellt und mit den blintzenden Effekt mich beschäftigt, was schlussendlich sehr toll aussieht. In Plannung habe ich vergessen, dass ich noch ein Menu für Symbole erstellen muss. Das hat mich überrascht, war aber kein Problem, den das war ähnlich wie Menu früher. Gegenende habe ich Brett eingebaut, und eine gute Lösung für Zahl Eingabe gefunden, statt mit switch – case zu arbeiten. (99)
 
-☝️ Vergessen Sie nicht, bis zum 16.1 einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
-
 ## 23.1.2024
 
 - [ ] Fehler eingaben von Benutzer fangen, und wieder nach Zahl gefragt.
