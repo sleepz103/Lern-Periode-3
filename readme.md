@@ -20,7 +20,7 @@ Heute habe ich mich erinnert, wie kann ich besser Arbeiten anhand Erfahrung aus 
 
 ## 16.1.2024
 
-- [ ] ein kopierbares Muster als Txt erstellen, der die 4 fragen stellt
+- [x] ein kopierbares Muster als Txt erstellen, der die 4 fragen stellt
 - [ ] Titel und Menu erstellen. Das menu hat blintzende Hintergrundfarbe.
 - [ ] beginnt das Spiel, wird das Tic Tac Toe board gezeigt
 - [ ] Feld anhand Eingabe von Benutzer mit Symbol bedecken
