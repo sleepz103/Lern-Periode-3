@@ -27,13 +27,13 @@ Heute habe ich mich erinnert, wie kann ich besser Arbeiten anhand Erfahrung aus 
 
 | estfall-Nummer | Ausgangslage (Given)                  | Eingabe (When)          | Ausgabe (Then)                                              | Erfüllt? |
 | -------------- | ------------------------------------- | ----------------------- | ----------------------------------------------------------- | -------- |
-| 1              | Muster txt File kopiert               | Muster geöffnet         | Problem: Warum: Ziel: Lösung:                               |          |
-| 2              | Einführung für app wurde programmiert | Programm wird gestartet | Tic Tac Toe als Titel, Menu mit "Choose Symbol" und "Close" |          |
-| 2.1            | Programm wurde gestartet              | C                       | "choose" text blintzelt schnell 3 mal                       |          |
-| 3              | Programm gestartet, Symbol gewählt    | -                       | Board zu Spiel wird gezeigt                                 |          |
-| 4              | ...symbol gewählt, Spiel gestartet    | 1                       | Feld 1 wird mit Symbol bedeckt                              |          |
+| 1              | Muster txt File kopiert               | Muster geöffnet         | Problem: Warum: Ziel: Lösung:                               | Ja       |
+| 2              | Einführung für app wurde programmiert | Programm wird gestartet | Tic Tac Toe als Titel, Menu mit "Choose Symbol" und "Close" | Ja       |
+| 2.1            | Programm wurde gestartet              | s                       | "Choose Symbol" text blintzelt schnell 3 mal                | Ja       |
+| 3              | Programm gestartet, Symbol gewählt    | -                       | Board zu Spiel wird gezeigt                                 | Ja       |
+| 4              | ...symbol gewählt, Spiel gestartet    | 1                       | Feld 1 wird mit Symbol bedeckt                              | Ja       |
 
-✍️ Heute am 16.1 habe ich... (50-100 Wörter)
+✍️ Heute am 16.1 habe ich mit den Erstellung von Muster angefangen. Ich habe es "Problem2Solution" bennant und in Order getan, wo ich dazu schnellen Zugriff habe. Danach habe ich mit den Projekt richtig angefangen. Ich habe Menu erstellt und mit den blintzenden Effekt mich beschäftigt, was schlussendlich sehr toll aussieht. In Plannung habe ich vergessen, dass ich noch ein Menu für Symbole erstellen muss. Das hat mich überrascht, war aber kein Problem, den das war ähnlich wie Menu früher. Gegenende habe ich Brett eingebaut, und eine gute Lösung für Zahl Eingabe gefunden, statt mit switch – case zu arbeiten. (99)
 
 ☝️ Vergessen Sie nicht, bis zum 16.1 einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
