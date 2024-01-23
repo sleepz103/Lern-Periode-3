@@ -37,24 +37,24 @@ Heute habe ich mich erinnert, wie kann ich besser Arbeiten anhand Erfahrung aus 
 
 ## 23.1.2024
 
-- [ ] Fehler eingaben von Benutzer fangen, und wieder nach Zahl gefragt.
+- [x] Fehler eingaben von Benutzer fangen, und wieder nach Zahl fragen.
 
-- [ ] Nicht erlauben, dass der Benutzer schon bedeckte Ort eingeben kann
+- [x] Nicht erlauben, dass der Benutzer schon bedeckte Ort eingeben kann
 
-- [ ] Ein Generator erstellen, der zufallig eine erlaubte Zahl auswählt
+- [x] Ein Generator erstellen, der zufallig eine erlaubte Zahl auswählt
 
-- [ ] Nach jeder Runde des Benutzer kommt der Generator und bedeckt ein Feld
+- [x] Nach jeder Runde des Benutzer kommt der Generator und bedeckt ein Feld
 
 - [ ] (Nach Gewinn prüfen (ex. if field 1&&4&&7 ==  gleiche Symbol dann spiel beenden und "Gewinn" ausgeben)
 
 | Testfall-Nummer | Ausgangslage (Given)                                    | Eingabe (When) | Ausgabe (Then)                                                                     | Erfüllt? |
 | --------------- | ------------------------------------------------------- | -------------- | ---------------------------------------------------------------------------------- | -------- |
-| 5               | ... Symbol gewählt, benutzer ist nach Koordinat gefragt | abc            | Invalid Field                                                                      |          |
-| 6               | ... Symbol gewählt, benutzer ist nach Koordinat gefragt | 1              | Field already taken                                                                |          |
-| 7               | Spiel gestartet                                         | -              | int BotField = random number                                                       |          |
-| 8               | ... Benutzer gibt den Koordinat an                      | 1              | (Feld 1 ist bedeckt) (dann bedeckt der Komputer ein anderes Feld anhand Generator) |          |
+| 5               | ... Symbol gewählt, benutzer ist nach Koordinat gefragt | abc            | Invalid Field                                                                      | ja       |
+| 6               | ... Symbol gewählt, benutzer ist nach Koordinat gefragt | 1              | Field already taken                                                                | jain     |
+| 7               | Spiel gestartet                                         | -              | int BotField = random number                                                       | ja       |
+| 8               | ... Benutzer gibt den Koordinat an                      | 1              | (Feld 1 ist bedeckt) (dann bedeckt der Komputer ein anderes Feld anhand Generator) | ja       |
 
-✍️ Heute am 23.1 habe ich... (50-100 Wörter)
+✍️ Heute am 23.1 habe ich mich viel mit Ausnahmen beschäftigt, sodass das Spiel ordentlich bleibt. Nun kann der Benutzter nur eine Zahl eingeben. Mit dieser Änderung würde auch das zweite Anforderung gelöst. Danach habe ich mich an den Komputer Reihe gearbeitet. Ich habe gedacht, dass es gleich wie mit den Benutzer wird, war eber nicht so. Es hat mir lange gedauert, um herauszufinden, wie ich richtig Zufallzahl mit Zahl aus Spielbrett vergleiche. Während der Arbeit habe ich drei mal meine Vorlage benutzt. Das hat mir aber geholfen, auf den Problem von aussen zu schauen, und konnte direkt eine Lösung vermuten. Leider ist das Spiel nicht fertig, wie ich es möchte. (110)
 
 ☝️ Vergessen Sie nicht, bis zum 23.1 Ihren fixfertigen Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
