@@ -56,14 +56,14 @@ Heute habe ich mich erinnert, wie kann ich besser Arbeiten anhand Erfahrung aus 
 
 ✍️ Heute am 23.1 habe ich mich viel mit Ausnahmen beschäftigt, sodass das Spiel ordentlich bleibt. Nun kann der Benutzter nur eine Zahl eingeben. Mit dieser Änderung würde auch das zweite Anforderung gelöst. Danach habe ich mich an den Komputer Reihe gearbeitet. Ich habe gedacht, dass es gleich wie mit den Benutzer wird, war eber nicht so. Es hat mir lange gedauert, um herauszufinden, wie ich richtig Zufallzahl mit Zahl aus Spielbrett vergleiche. Während der Arbeit habe ich drei mal meine Vorlage benutzt. Das hat mir aber geholfen, auf den Problem von aussen zu schauen, und konnte direkt eine Lösung vermuten. Leider ist das Spiel nicht fertig, wie ich es möchte. (110)
 
-☝️ Vergessen Sie nicht, bis zum 23.1 Ihren fixfertigen Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
+
 
 ## 30.1.2024
 
-✍️ Heute am 23.1 habe ich... (50-100 Wörter)
+✍️ Heute am 23.1 habe ich am Anfang mein Code geputzt. Das heisst, dass nun in upload 3 gibt es Code, mit Variablen die Sinn machen. Auch Funktionen, wie InvertedSymbol, würde zu InvertSymbol, geben den Code einen mehr lesbaren Blick. Danach habe ich mein Profil auf Github gestaltet. Und noch eine Github website erstellt. Alle heutige Ziele erfüllte ich mit Hilfe von Checklisten, damit ich nicht während Arbeit vergesse. Und das ist gut gegangen. (73)
 
 ## Reflexion
-
+Während dieser Lernperiode ist mir Paar Mal gefallen, dass ich meine Vorlage benutzte, oder dass ich mir überlegete warum habe ich gerade ein Prolem und was mein Ziel ist. Mein Verbessrungsvorschlag finde ich tolle Idee, mich zu verbessern. Die Vorlagen haben mir paar mal geholfen. Es braucht aber eine Übung, um zu merken, wann ich dies anwenden soll. Manchmal...
 Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
 
 Verfassen Sie zusätzlich einen kurzen Abschnitt, in welchem Sie über die Länge der Projekte reflektieren: Fanden Sie die 9-wöchtige LP2 oder die 4-wöchige LP3 angenehmer? Was bedeutet das für Ihre Planung der zukünftigen LP
